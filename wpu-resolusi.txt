@@ -1,3 +1,5 @@
 JUST TEST WPU
 -wpu test1
 -wpu test2
+-wpu test3
+-wpu test4
